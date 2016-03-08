@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText 
+        android:text="Bedrest - refers to voluntarily lying in bed as a treatment, and not being confined to bed because of a health impairment \n\n light - a person who spends no more than 2 hours a day in walking \n\n sedentary - lifestyle is a type of lifestyle with no or irregular physical activity. usually they are couch potatoes \n\n moderate - you are always on your feet most of the work day and do no structured exercise \n\n heavy - you do heavy manual labor"
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"
+        android:editable="false"
+        
+         /></ScrollView>
+    <!-- 
+    String string = "Bedrest - refers to voluntarily lying in bed as a treatment, and not being confined to bed because of a health impairment \n";
+				string += "light - a person who spends no more than 2 hours a day in walking \n";
+				string += "sedentary - lifestyle is a type of lifestyle with no or irregular physical activity. usually they are couch potatoes";
+				string += "moderate - you are always on your feet most of the work day and do no structured exercise";
+				string += "heavy - you do heavy manual labor"; -->
+
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_primary">#2c3e50</color>
+    <color name="reduce">#c62828</color>
+    
+    <color name="increase">#0277bd</color>
+    
+    <color name="maintain">#2e7d32</color>
+</resources>

@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.uic.happyfit.MainActivity" >
+
+   
+     <item
+        android:id="@+id/action_reports"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_activity_reports"
+        android:title="reports"/>
+   
+     <item
+        android:id="@+id/action_exercise"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_activity_exercise"
+        android:title="exercise"/>
+	<item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="collapseActionView"
+        android:icon="@drawable/ic_settings"
+        android:title="settings"/>
+   
+</menu>
